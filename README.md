@@ -2,6 +2,8 @@
 
 This directory contains materials I produced in February 2020 as part of a side-project exploring the statistical principles underpinning HI-LO card counting in Blackjack. These have been lying as undocumented Jupter notebooks, and need tidying up.
 
+Have dumped the entirety of the data notebooks in this repo, which needs to be cleaned and documented when I get time.
+
 ## Directory contents.
 
 The contents of this directory are as follows
